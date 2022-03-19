@@ -27,7 +27,7 @@ int main()
     std::cin>> cm;
   
     inches = cm / 2.54;
-    std::cout<<"Length in inches is :" <<inches;
+    std::cout<<"Length in inches is :" <<inches<<endl;
   
     return 0;
 
